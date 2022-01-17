@@ -1,0 +1,11 @@
+C:\Users\FernandoPC\Documents\Capacitacion_Angular_-_.NET_2021\C#_Sprint_1\operadores\operadores\bin\Debug\netcoreapp2.1\operadores.deps.json
+C:\Users\FernandoPC\Documents\Capacitacion_Angular_-_.NET_2021\C#_Sprint_1\operadores\operadores\bin\Debug\netcoreapp2.1\operadores.runtimeconfig.json
+C:\Users\FernandoPC\Documents\Capacitacion_Angular_-_.NET_2021\C#_Sprint_1\operadores\operadores\bin\Debug\netcoreapp2.1\operadores.runtimeconfig.dev.json
+C:\Users\FernandoPC\Documents\Capacitacion_Angular_-_.NET_2021\C#_Sprint_1\operadores\operadores\bin\Debug\netcoreapp2.1\operadores.dll
+C:\Users\FernandoPC\Documents\Capacitacion_Angular_-_.NET_2021\C#_Sprint_1\operadores\operadores\bin\Debug\netcoreapp2.1\operadores.pdb
+C:\Users\FernandoPC\Documents\Capacitacion_Angular_-_.NET_2021\C#_Sprint_1\operadores\operadores\obj\Debug\netcoreapp2.1\operadores.csprojAssemblyReference.cache
+C:\Users\FernandoPC\Documents\Capacitacion_Angular_-_.NET_2021\C#_Sprint_1\operadores\operadores\obj\Debug\netcoreapp2.1\operadores.csproj.CoreCompileInputs.cache
+C:\Users\FernandoPC\Documents\Capacitacion_Angular_-_.NET_2021\C#_Sprint_1\operadores\operadores\obj\Debug\netcoreapp2.1\operadores.AssemblyInfoInputs.cache
+C:\Users\FernandoPC\Documents\Capacitacion_Angular_-_.NET_2021\C#_Sprint_1\operadores\operadores\obj\Debug\netcoreapp2.1\operadores.AssemblyInfo.cs
+C:\Users\FernandoPC\Documents\Capacitacion_Angular_-_.NET_2021\C#_Sprint_1\operadores\operadores\obj\Debug\netcoreapp2.1\operadores.dll
+C:\Users\FernandoPC\Documents\Capacitacion_Angular_-_.NET_2021\C#_Sprint_1\operadores\operadores\obj\Debug\netcoreapp2.1\operadores.pdb

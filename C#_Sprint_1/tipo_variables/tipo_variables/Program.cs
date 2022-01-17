@@ -26,7 +26,11 @@ namespace tipo_variables
             Console.WriteLine("Flag: {0}", flag);
             Console.WriteLine("Character: {0}", character);
 
-            Console.WriteLine("Year wrapper {0}", year2);
+
+            dynamic valueDinamyc = 20;
+            valueDinamyc = true;
+            valueDinamyc = "valueDinamyc";
+            Console.WriteLine("Dinamyc:"+ valueDinamyc);
             Console.ReadLine();
         }
     }
