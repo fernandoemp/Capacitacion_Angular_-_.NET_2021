@@ -3,3 +3,5 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
 
 Operadores
 https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/
+
+https://www.udemy.com/course/curso-de-c-sharp-net-core-desde-cero/learn/lecture/14532640#overview
